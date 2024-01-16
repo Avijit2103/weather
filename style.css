@@ -85,3 +85,19 @@ p{
     width: 30px;
     height:30px;
 }
+@media only screen and (max-width: 600px) {
+    body {
+      background:linear-gradient(135deg,#00feba,#5b548a);
+    }
+    .box{
+        border: none;
+        background: none;
+        box-shadow: none;
+    }
+    .weather{
+        margin-top: 50px;
+    }
+    .details{
+        margin-top: 100px;
+    }
+  }
