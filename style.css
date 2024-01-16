@@ -93,11 +93,13 @@ p{
         border: none;
         background: none;
         box-shadow: none;
+        padding: 0 10px 10px 10px;
     }
     .weather{
         margin-top: 50px;
     }
     .details{
-        margin-top: 100px;
+        padding-top: 40px;
+        padding-bottom: 80px;
     }
   }
